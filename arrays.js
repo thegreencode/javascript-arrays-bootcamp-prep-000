@@ -20,3 +20,11 @@ console.log(array)
 destructivelyAddElementToBeginningOfArray(element)
 
 
+function addElementToEndOfArray(array, element {
+  
+}
+
+
+function destructivelyAddElementToEndOfArray {
+  
+}
