@@ -18,3 +18,5 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 console.log(array)
 
 destructivelyAddElementToBeginningOfArray(element)
+
+
