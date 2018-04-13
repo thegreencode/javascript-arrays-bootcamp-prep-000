@@ -9,7 +9,7 @@ function addElementToBeginningOfArray(array, element) {
 
 console.log(array)
 
-addElementToBeginningOfArray(element)
+addElementToBeginningOfArray('foo')
 
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
