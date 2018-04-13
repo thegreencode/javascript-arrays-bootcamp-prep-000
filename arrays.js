@@ -7,6 +7,8 @@ function addElementToBeginningOfArray(array, element) {
    array = ['foo', 1]
 }
 
+console.log(array)
+
 addElementToBeginningOfArray(element)
 
 
